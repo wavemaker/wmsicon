@@ -1,0 +1,5 @@
+{
+	"baseClass": "wms",
+	"classPrefix": "wms-",
+    "mixinPrefix": "wms-"
+}

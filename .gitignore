@@ -1,0 +1,7 @@
+node_modules
+test/tmp
+.cache
+Changelog.md
+*.iml
+wmsicon.iml
+.idea
