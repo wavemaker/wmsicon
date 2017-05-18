@@ -15,7 +15,7 @@ module.exports = function(grunt) {
 				options: {
 					hashes: false,
 					dest: 'dist/wmsicon/fonts',
-					destCss: 'dist/wmsicon',
+					destCss: 'dist/wmsicon/css',
                     fontFamilyName: 'wms',
                     font:'wmsicon'
 				}
