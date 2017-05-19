@@ -10,7 +10,7 @@ module.exports = function(grunt) {
 	grunt.initConfig({
 		webfont: {
 			wmsicon: {
-				src: 'src/*.svg',
+				src: 'src/**/*.svg',
 				dest: 'dist/wmsicon',
 				options: {
 					hashes: false,
