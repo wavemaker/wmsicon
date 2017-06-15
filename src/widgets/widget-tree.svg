@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<path style="fill:#FFFFFF;" d="M13.818,1.715H2.182c-0.276,0-0.5,0.224-0.5,0.5v11.57c0,0.276,0.224,0.5,0.5,0.5h11.636
-	c0.275,0,0.5-0.224,0.5-0.5V2.215C14.318,1.938,14.094,1.715,13.818,1.715z M13.318,13.285H2.682V2.715h10.636V13.285z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24pt" height="24pt" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 5.453125 5.453125 L 2.183594 5.453125 L 2.183594 2.183594 L 5.453125 2.183594 Z M 10.910156 6.546875 L 7.636719 6.546875 L 7.636719 9.816406 L 10.910156 9.816406 Z M 16.363281 12 L 13.089844 12 L 13.089844 15.273438 L 16.363281 15.273438 Z M 10.910156 18.546875 L 7.636719 18.546875 L 7.636719 21.816406 L 10.910156 21.816406 Z M 14.183594 3.382812 L 6.546875 3.382812 L 6.546875 4.253906 L 14.183594 4.253906 Z M 19.636719 19.746094 L 12 19.746094 L 12 20.617188 L 19.636719 20.617188 Z M 19.636719 7.746094 L 12 7.746094 L 12 8.617188 L 19.636719 8.617188 Z M 24 13.199219 L 18 13.199219 L 18 14.074219 L 24 14.074219 Z M 24 13.199219 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 7.636719 19.746094 L 3.816406 19.746094 L 3.816406 19.527344 L 7.636719 19.527344 Z M 7.636719 19.746094 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 3.925781 19.746094 L 3.710938 19.746094 L 3.710938 5.453125 L 3.925781 5.453125 Z M 7.636719 7.527344 L 3.816406 7.527344 L 3.816406 7.746094 L 7.636719 7.746094 Z M 13.089844 14.074219 L 8.726562 14.074219 L 8.726562 14.289062 L 13.089844 14.289062 Z M 8.835938 9.816406 L 8.617188 9.816406 L 8.617188 14.183594 L 8.835938 14.183594 Z M 8.835938 9.816406 "/>
+</g>
 </svg>
