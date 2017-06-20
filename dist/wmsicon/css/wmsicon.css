@@ -1162,72 +1162,72 @@
 }
 
 
-.wms-font-underline:before {
+.wms-format-align-center:before {
 	content:"\f1e3";
 }
 
 
-.wms-format-align-center:before {
+.wms-format-align-justify:before {
 	content:"\f1e4";
 }
 
 
-.wms-format-align-justify:before {
+.wms-format-align-left:before {
 	content:"\f1e5";
 }
 
 
-.wms-format-align-left:before {
+.wms-format-align-right:before {
 	content:"\f1e6";
 }
 
 
-.wms-format-align-right:before {
+.wms-format-bold:before {
 	content:"\f1e7";
 }
 
 
-.wms-format-bold:before {
+.wms-format-color-fill:before {
 	content:"\f1e8";
 }
 
 
-.wms-format-color-fill:before {
+.wms-format-color-text:before {
 	content:"\f1e9";
 }
 
 
-.wms-format-color-text:before {
+.wms-format-indent-decrease:before {
 	content:"\f1ea";
 }
 
 
-.wms-format-indent-decrease:before {
+.wms-format-indent-increase:before {
 	content:"\f1eb";
 }
 
 
-.wms-format-indent-increase:before {
+.wms-format-italic:before {
 	content:"\f1ec";
 }
 
 
-.wms-format-italic:before {
+.wms-format-strikethrough:before {
 	content:"\f1ed";
 }
 
 
-.wms-format-strikethrough:before {
+.wms-format-textdirection-l-to-r:before {
 	content:"\f1ee";
 }
 
 
-.wms-format-textdirection-l-to-r:before {
+.wms-format-textdirection-r-to-l:before {
 	content:"\f1ef";
 }
 
 
-.wms-format-textdirection-r-to-l:before {
+.wms-format-underlined:before {
 	content:"\f1f0";
 }
 
