@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24pt" height="24pt" viewBox="0 0 24 24" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 0.980469 8.617188 L 0 8.617188 L 0 1.636719 L 6.4375 1.636719 L 6.4375 2.617188 L 0.980469 2.617188 Z M 24 8.617188 L 23.019531 8.617188 L 23.019531 2.617188 L 17.453125 2.617188 L 17.453125 1.636719 L 24 1.636719 Z M 6.4375 22.363281 L 0 22.363281 L 0 15.382812 L 0.980469 15.382812 L 0.980469 21.382812 L 6.546875 21.382812 L 6.546875 22.363281 Z M 24 22.363281 L 17.5625 22.363281 L 17.5625 21.382812 L 23.128906 21.382812 L 23.128906 15.382812 L 24 15.382812 Z M 20.183594 18.21875 L 3.816406 18.21875 L 3.816406 5.78125 L 20.183594 5.78125 Z M 4.800781 17.238281 L 19.199219 17.238281 L 19.199219 6.761719 L 4.800781 6.761719 Z M 4.800781 17.238281 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 17.238281 15.925781 L 6.65625 15.925781 L 6.65625 7.964844 L 17.238281 7.964844 Z M 7.417969 15.164062 L 16.363281 15.164062 L 16.363281 8.726562 L 7.417969 8.726562 Z M 7.417969 15.164062 "/>
-</g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<path d="M1.5,8.9H0V1.6h6.8v1.5H1.5V8.9z M17.1,1.6v1.5h5.5v5.9H24V1.6H17.1z M1.5,15.1H0v7.3h6.9v-1.5H1.5V15.1z M22.7,20.9h-5.5
+	v1.5H24v-7.3h-1.3V20.9z M3.7,5.7h16.5v12.7H3.7V5.7z M5.2,7.1v9.8h13.6V7.1H5.2z M17.4,16.1H6.5V7.8h10.9V16.1z M16,14.9V9H7.8v5.8
+	H16z"/>
 </svg>
