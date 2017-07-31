@@ -2197,12 +2197,12 @@
 }
 
 
-.wms-time-variable:before {
+.wms-timeline:before {
 	content:"\f2b2";
 }
 
 
-.wms-timeline:before {
+.wms-timer-variable:before {
 	content:"\f2b3";
 }
 
