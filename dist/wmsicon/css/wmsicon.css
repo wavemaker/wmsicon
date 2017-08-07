@@ -2552,193 +2552,188 @@
 }
 
 
-.wms-widget-datatable:before {
+.wms-widget-date:before {
 	content:"\f2f9";
 }
 
 
-.wms-widget-date:before {
+.wms-widget-datetime:before {
 	content:"\f2fa";
 }
 
 
-.wms-widget-datetime:before {
+.wms-widget-design-dialog:before {
 	content:"\f2fb";
 }
 
 
-.wms-widget-design-dialog:before {
+.wms-widget-donutchart:before {
 	content:"\f2fc";
 }
 
 
-.wms-widget-donutchart:before {
+.wms-widget-email:before {
 	content:"\f2fd";
 }
 
 
-.wms-widget-email:before {
+.wms-widget-fileupload:before {
 	content:"\f2fe";
 }
 
 
-.wms-widget-fileupload:before {
+.wms-widget-form:before {
 	content:"\f2ff";
 }
 
 
-.wms-widget-form:before {
+.wms-widget-html:before {
 	content:"\f300";
 }
 
 
-.wms-widget-html:before {
+.wms-widget-icon:before {
 	content:"\f301";
 }
 
 
-.wms-widget-icon:before {
+.wms-widget-iframe-dialog:before {
 	content:"\f302";
 }
 
 
-.wms-widget-iframe-dialog:before {
+.wms-widget-iframe:before {
 	content:"\f303";
 }
 
 
-.wms-widget-iframe:before {
+.wms-widget-label:before {
 	content:"\f304";
 }
 
 
-.wms-widget-label:before {
+.wms-widget-layoutgrid:before {
 	content:"\f305";
 }
 
 
-.wms-widget-layoutgrid:before {
+.wms-widget-linechart:before {
 	content:"\f306";
 }
 
 
-.wms-widget-linechart:before {
+.wms-widget-list:before {
 	content:"\f307";
 }
 
 
-.wms-widget-list:before {
+.wms-widget-livefilter:before {
 	content:"\f308";
 }
 
 
-.wms-widget-livefilter:before {
+.wms-widget-liveform:before {
 	content:"\f309";
 }
 
 
-.wms-widget-liveform:before {
+.wms-widget-livegrid:before {
 	content:"\f30a";
 }
 
 
-.wms-widget-livegrid:before {
+.wms-widget-locale:before {
 	content:"\f30b";
 }
 
 
-.wms-widget-locale:before {
+.wms-widget-login-dialog:before {
 	content:"\f30c";
 }
 
 
-.wms-widget-login-dialog:before {
+.wms-widget-login:before {
 	content:"\f30d";
 }
 
 
-.wms-widget-login:before {
+.wms-widget-marquee:before {
 	content:"\f30e";
 }
 
 
-.wms-widget-marquee:before {
+.wms-widget-media-list:before {
 	content:"\f30f";
 }
 
 
-.wms-widget-media-list:before {
+.wms-widget-menu:before {
 	content:"\f310";
 }
 
 
-.wms-widget-menu:before {
+.wms-widget-message:before {
 	content:"\f311";
 }
 
 
-.wms-widget-message:before {
+.wms-widget-nav:before {
 	content:"\f312";
 }
 
 
-.wms-widget-nav:before {
+.wms-widget-navbar:before {
 	content:"\f313";
 }
 
 
-.wms-widget-navbar:before {
+.wms-widget-page-dialog:before {
 	content:"\f314";
 }
 
 
-.wms-widget-page-dialog:before {
+.wms-widget-panel:before {
 	content:"\f315";
 }
 
 
-.wms-widget-panel:before {
+.wms-widget-picture:before {
 	content:"\f316";
 }
 
 
-.wms-widget-picture:before {
+.wms-widget-piechart:before {
 	content:"\f317";
 }
 
 
-.wms-widget-piechart:before {
+.wms-widget-popover:before {
 	content:"\f318";
 }
 
 
-.wms-widget-popover:before {
+.wms-widget-popuplink:before {
 	content:"\f319";
 }
 
 
-.wms-widget-popuplink:before {
+.wms-widget-progress:before {
 	content:"\f31a";
 }
 
 
-.wms-widget-progress:before {
+.wms-widget-radio:before {
 	content:"\f31b";
 }
 
 
-.wms-widget-radio:before {
+.wms-widget-radioset:before {
 	content:"\f31c";
 }
 
 
-.wms-widget-radioset:before {
-	content:"\f31d";
-}
-
-
 .wms-widget-rangeslider:before {
-	content:"\f31e";
+	content:"\f31d";
 }
 
 
@@ -2748,120 +2743,120 @@
 
 
 .wms-widget-ratings:before {
-	content:"\f31f";
+	content:"\f31e";
 }
 
 
 .wms-widget-richtexteditor:before {
-	content:"\f320";
+	content:"\f31f";
 }
 
 
 .wms-widget-search:before {
-	content:"\f321";
+	content:"\f320";
 }
 
 
 .wms-widget-segmentedcontrol:before {
-	content:"\f322";
+	content:"\f321";
 }
 
 
 .wms-widget-select:before {
-	content:"\f323";
+	content:"\f322";
 }
 
 
 .wms-widget-selectlocale:before {
-	content:"\f324";
+	content:"\f323";
 }
 
 
 .wms-widget-slider:before {
-	content:"\f325";
+	content:"\f324";
 }
 
 
 .wms-widget-spinner:before {
-	content:"\f326";
+	content:"\f325";
 }
 
 
 .wms-widget-switch:before {
-	content:"\f327";
+	content:"\f326";
 }
 
 
 .wms-widget-table:before {
-	content:"\f328";
+	content:"\f327";
 }
 
 
 .wms-widget-tabpane:before {
-	content:"\f329";
+	content:"\f328";
 }
 
 
 .wms-widget-tabs:before {
-	content:"\f32a";
+	content:"\f329";
 }
 
 
 .wms-widget-text:before {
-	content:"\f32b";
+	content:"\f32a";
 }
 
 
 .wms-widget-textarea:before {
-	content:"\f32c";
+	content:"\f32b";
 }
 
 
 .wms-widget-tile:before {
-	content:"\f32d";
+	content:"\f32c";
 }
 
 
 .wms-widget-time:before {
-	content:"\f32e";
+	content:"\f32d";
 }
 
 
 .wms-widget-toggle:before {
-	content:"\f32f";
+	content:"\f32e";
 }
 
 
 .wms-widget-tree:before {
-	content:"\f330";
+	content:"\f32f";
 }
 
 
 .wms-widget-video:before {
-	content:"\f331";
+	content:"\f330";
 }
 
 
 .wms-widget-wizard:before {
-	content:"\f332";
+	content:"\f331";
 }
 
 
 .wms-wifi:before {
-	content:"\f333";
+	content:"\f332";
 }
 
 
 .wms-windows:before {
-	content:"\f334";
+	content:"\f333";
 }
 
 
 .wms-zoom-in:before {
-	content:"\f335";
+	content:"\f334";
 }
 
 
 .wms-zoom-out:before {
-	content:"\f336";
+	content:"\f335";
 }
