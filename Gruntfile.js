@@ -48,6 +48,6 @@ module.exports = function(grunt) {
 
 	grunt.loadTasks('tasks');
 
-	grunt.registerTask('default', ['jshint', 'jscs', 'clean', 'webfont', 'test', 'clean']);
+	grunt.registerTask('default', ['jshint', 'jscs', 'webfont', 'clean']);
 
 };

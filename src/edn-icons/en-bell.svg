@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>en_bell</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="en_bell" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8,20 C9.1045695,20 10,19.1045695 10,18 L6,18 C6,19.1045695 6.8954305,20 8,20 Z M14,13.65 L14,9.5 C14.0189493,6.43730882 11.9616403,3.75046331 9,2.97 L9,1.97 C9,1.41771525 8.55228475,0.97 8,0.97 C7.44771525,0.97 7,1.41771525 7,1.97 L7,2.97 C4.03419681,3.74420426 1.97392259,6.43492239 2,9.5 L2,13.62 L-5.68434189e-14,15.67 L-5.68434189e-14,16.97 L16,16.97 L16,15.67 L14,13.65 Z" id="Shape" fill="#7F7F7F" fill-rule="nonzero"></path>
+    </g>
+</svg>
