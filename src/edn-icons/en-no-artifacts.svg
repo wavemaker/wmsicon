@@ -5,7 +5,6 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="en_no-artifacts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle-3" x="0" y="0" width="50" height="50"></rect>
         <g id="Group" transform="translate(2.000000, 3.000000)" fill="#C6C6C6" fill-rule="nonzero">
             <path d="M27.7907852,30.1403703 C26.5188077,32.6843253 26.7974757,35.7292217 28.5100985,38.000027 L39.0100985,27.510027 C37.7162456,26.5268895 36.1350911,25.9963243 34.5100985,26.000027 C31.6658806,25.9924119 29.0627626,27.5964154 27.7907852,30.1403703 Z" id="Shape"></path>
             <path d="M30,39.5 C32.978881,41.8087334 37.2101527,41.5406558 39.8738388,38.8744304 C42.537525,36.208205 42.8015707,31.9766798 40.49,29 L30,39.5 Z" id="Shape"></path>
