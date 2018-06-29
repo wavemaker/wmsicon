@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="11px" height="11px" viewBox="0 0 11 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>en_time</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="en_time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M5.5,11 C2.46243388,11 0,8.53756612 0,5.5 C0,2.46243388 2.46243388,0 5.5,0 C8.53756612,0 11,2.46243388 11,5.5 C11,8.53756612 8.53756612,11 5.5,11 Z M5,2.99449036 L5,6.98347107 L6,6.98347107 L6,2.99449036 L5,2.99449036 Z M6,5.9862259 L6,6.98347107 L9,6.98347107 L9,5.9862259 L6,5.9862259 Z" id="Combined-Shape" fill="#B2B2B2"></path>
-    </g>
-</svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14"><defs><style>.cls-1{fill:#b2b2b2;}</style></defs><title>Untitled-7</title><path class="cls-1" d="M6.5,1A5.5,5.5,0,1,0,12,6.5,5.5,5.5,0,0,0,6.5,1ZM9,8H6V4H7V7H9Z"/></svg>
