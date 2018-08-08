@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>prefab</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="prefab" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10,4 L10,1 C10,6.24500451e-16 9.84440244,0 9,0 C9.12313071,0 9,0.0712473552 9,1 L9,4 L6,4 L6,1 C5.99890038,0.0954897163 5.90466751,0.0954897163 5,0 C4.94204424,0.0954897163 5,0.0954897163 5,1 L5,4 L3,4 C3.12716235,3.77938567 3.12716235,4.44605234 3,6 C3,9.17393967 5,10.6327144 7,11 L7,15 C7.03651467,14.8582142 7.36984801,14.8582142 8,15 L8,11 C10,10.6327144 12,9.53434406 12,6 L12,4 C12,3.92117145 11.3333333,3.92117145 10,4 Z" id="Fill-1" fill="#967ADC"></path>
+    </g>
+</svg>
