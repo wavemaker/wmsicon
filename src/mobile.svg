@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
-<path d="M15.5,0.2l-0.3,0C14.4,0,12.3,0,12.1,0c0,0,0,0,0,0h-0.2c-0.1,0-2.3,0-3.2,0.1l-0.3,0C7,0.3,5.9,0.5,5.9,3.5v17.9
-	C5.9,22.9,7.1,24,9,24H15c1.8,0,3.1-1.1,3.1-2.6V3.5C18.1,0.5,17,0.3,15.5,0.2z M13.2,22.5v0.3c0,0.1,0,0.1-0.1,0.1h-2.2
-	c-0.1,0-0.1,0-0.1-0.1v-0.3c0-0.1,0-0.1,0.1-0.1h2.2C13.2,22.4,13.2,22.5,13.2,22.5z M10.8,1h2.3c0,0,0,0,0,0c0,0,0,0,0,0L10.8,1
-	C10.8,1.1,10.8,1,10.8,1C10.8,1,10.8,1,10.8,1z M16.9,2.9v17.7H7V2.9H16.9z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,3 L10,3 L10,2 L6,2 L6,3 Z M7,16 L9,16 L9,15 L7,15 L7,16 Z M13,1 L3,1 L3,13 L13,13 L13,14 L3,14 L3,17 L13,17 L13,1 Z M13,18 L3,18 C2.18,18 2,17.829 2,17 L2,1 C2,0.17 2.18,0 3,0 L13,0 C13.83,0 14,0.17 14,1 L14,17 C14,17.829 13.83,18 13,18 Z" id="Fill-1" fill="#000000"></path>
+    </g>
 </svg>
