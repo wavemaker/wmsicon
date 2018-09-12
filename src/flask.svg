@@ -1,38 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="14" height="20" viewBox="0 0 14 20">
-  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""/>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?></metadata>
-<defs>
-    <style>
-      .cls-1 {
-        fill-rule: evenodd;
-      }
-    </style>
-  </defs>
-  <path id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-1" d="M639,240.36V241H625v-1l5-5.179V228h-1v-1h2v8l-0.117.329L626.362,240h11.023l-4.393-4.376L633,235v-8h2v1h-1v7l4.7,5,0.3,0.346,0.007,0.008ZM634.5,224a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,634.5,224Zm0-2a0.5,0.5,0,1,0,.5.5A0.5,0.5,0,0,0,634.5,222Zm-3.5,4a1,1,0,1,1,1-1A1,1,0,0,1,631,226Z" transform="translate(-625 -221)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="20px" viewBox="0 0 14 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>flask</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" transform="translate(-3.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="flask" transform="translate(3.000000, 0.000000)">
+                <path d="M14,19.36 L14,20 L0,20 L0,19 L5,13.821 L5,7 L4,7 L4,6 L6,6 L6,14 L5.883,14.329 L1.362,19 L12.385,19 L7.992,14.624 L8,14 L8,6 L10,6 L10,7 L9,7 L9,14 L13.7,19 L14,19.346 L14.007,19.354 L14,19.36 Z M9.5,3 C8.67157288,3 8,2.32842712 8,1.5 C8,0.671572875 8.67157288,-2.84217094e-14 9.5,-2.84217094e-14 C10.3284271,-2.84217094e-14 11,0.671572875 11,1.5 C11,2.32842712 10.3284271,3 9.5,3 Z M9.5,1 C9.22385763,1 9,1.22385763 9,1.5 C9,1.77614237 9.22385763,2 9.5,2 C9.77614237,2 10,1.77614237 10,1.5 C10,1.22385763 9.77614237,1 9.5,1 Z M6,5 C5.44771525,5 5,4.55228475 5,4 C5,3.44771525 5.44771525,3 6,3 C6.55228475,3 7,3.44771525 7,4 C7,4.55228475 6.55228475,5 6,5 Z" id="Rectangle_1_copy"></path>
+            </g>
+        </g>
+    </g>
 </svg>
