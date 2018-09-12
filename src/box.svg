@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="17px" height="19px" viewBox="0 0 17 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard</title>
+    <title>Fill 1</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#FFFFFF" x="0" y="0" width="20" height="20"></rect>
-        <path d="M10.513,1 L10,1.241 L3,4.242 L2,4.689 L2,14.242 L2,15.242 L10,19.241 L10.501,19.475 L11,19.241 L19,15.242 L19,4.704 L18,4.242 L11,1.241 L10.513,1 Z M10,8.241 L3.539,5.01 L10,2.242 L10.513,2.026 L11,2.242 L17.462,5.01 L11,8.241 L10.512,8.473 L10,8.241 Z M11,9.241 L18,5.741 L18,14.741 L11,18.241 L11,9.241 Z M3,14.741 L3,5.741 L10,9.241 L10,18.241 L3,14.741 Z" id="Fill-1" fill="#000000"></path>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-2.000000, -1.000000)" fill="#000000">
+            <path d="M10.513,1 L10,1.241 L3,4.242 L2,4.689 L2,14.242 L2,15.242 L10,19.241 L10.501,19.475 L11,19.241 L19,15.242 L19,4.704 L18,4.242 L11,1.241 L10.513,1 Z M10,8.241 L3.539,5.01 L10,2.242 L10.513,2.026 L11,2.242 L17.462,5.01 L11,8.241 L10.512,8.473 L10,8.241 Z M11,9.241 L18,5.741 L18,14.741 L11,18.241 L11,9.241 Z M3,14.741 L3,5.741 L10,9.241 L10,18.241 L3,14.741 Z" id="Fill-1"></path>
+        </g>
     </g>
 </svg>
