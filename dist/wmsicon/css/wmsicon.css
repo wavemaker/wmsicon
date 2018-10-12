@@ -1792,32 +1792,32 @@
 }
 
 
-.wms-oneColumnWithTopNav:before {
+.wms-oneColumnWithoutTopNav:before {
 	content:"\f261";
 }
 
 
-.wms-oneColumnWithoutTopNav:before {
+.wms-oneColumnWithTopNav:before {
 	content:"\f262";
 }
 
 
-.wms-threeColumnWithTopNav:before {
+.wms-threeColumnWithoutTopNav:before {
 	content:"\f263";
 }
 
 
-.wms-threeColumnWithoutTopNav:before {
+.wms-threeColumnWithTopNav:before {
 	content:"\f264";
 }
 
 
-.wms-twoColumnWithTopNav:before {
+.wms-twoColumnWithoutTopNav:before {
 	content:"\f265";
 }
 
 
-.wms-twoColumnWithoutTopNav:before {
+.wms-twoColumnWithTopNav:before {
 	content:"\f266";
 }
 
