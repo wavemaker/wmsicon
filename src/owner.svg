@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>owner</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="owner" transform="translate(1.000000, 1.000000)" stroke="#000000">
+            <path d="M10,3.5 C10,5.43433333 8.43316667,7 6.5,7 C4.56566667,7 3,5.43433333 3,3.5 C3,1.56683333 4.56566667,0 6.5,0 C8.43316667,0 10,1.56683333 10,3.5 Z" id="Stroke-1"></path>
+            <path d="M0,12.7498818 C0,10.7396091 1.64509091,9.09451818 3.65536364,9.09451818 L9.34463636,9.09451818 C11.3549091,9.09451818 13,10.7396091 13,12.7498818" id="Stroke-3"></path>
+            <path d="M6.5,9.5001 L6.5,12" id="Path-2"></path>
+        </g>
+    </g>
+</svg>

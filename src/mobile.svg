@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+<svg width="12px" height="21px" viewBox="0 0 12 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
     <title>mobile</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M6,3 L10,3 L10,2 L6,2 L6,3 Z M7,16 L9,16 L9,15 L7,15 L7,16 Z M13,1 L3,1 L3,13 L13,13 L13,14 L3,14 L3,17 L13,17 L13,1 Z M13,18 L3,18 C2.18,18 2,17.829 2,17 L2,1 C2,0.17 2.18,0 3,0 L13,0 C13.83,0 14,0.17 14,1 L14,17 C14,17.829 13.83,18 13,18 Z" id="Fill-1" fill="#000000"></path>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mobile" fill="#000000">
+            <path d="M9.5,20 L2.5,20 C1.673,20 1,19.327 1,18.5 L1,17 L11,17 L11,18.5 C11,19.327 10.327,20 9.5,20 L9.5,20 Z M2.5,1 L9.5,1 C10.327,1 11,1.673 11,2.5 L11,4 L1,4 L1,2.5 C1,1.673 1.673,1 2.5,1 L2.5,1 Z M1,16 L11,16 L11,5 L1,5 L1,16 Z M9.5,0 L2.5,0 C1.122,0 0,1.121 0,2.5 L0,18.5 C0,19.879 1.122,21 2.5,21 L9.5,21 C10.878,21 12,19.879 12,18.5 L12,2.5 C12,1.121 10.878,0 9.5,0 L9.5,0 Z" id="Fill-1"></path>
+            <path d="M7.5,18 L4.5,18 C4.224,18 4,18.224 4,18.5 C4,18.776 4.224,19 4.5,19 L7.5,19 C7.776,19 8,18.776 8,18.5 C8,18.224 7.776,18 7.5,18" id="Fill-3"></path>
+            <path d="M6,2 L6,2.5 L5.999,2.5 L6,2 Z M6,3.5 C6.551,3.5 7,3.052 7,2.5 C7,1.948 6.551,1.5 6,1.5 C5.449,1.5 5,1.948 5,2.5 C5,3.052 5.449,3.5 6,3.5 L6,3.5 Z" id="Fill-5"></path>
+        </g>
     </g>
 </svg>

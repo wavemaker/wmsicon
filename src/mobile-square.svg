@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,3 L10,3 L10,2 L6,2 L6,3 Z M7,16 L9,16 L9,15 L7,15 L7,16 Z M13,1 L3,1 L3,13 L13,13 L13,14 L3,14 L3,17 L13,17 L13,1 Z M13,18 L3,18 C2.18,18 2,17.829 2,17 L2,1 C2,0.17 2.18,0 3,0 L13,0 C13.83,0 14,0.17 14,1 L14,17 C14,17.829 13.83,18 13,18 Z" id="Fill-1" fill="#000000"></path>
+    </g>
+</svg>
