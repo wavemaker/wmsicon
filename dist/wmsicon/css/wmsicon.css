@@ -1227,22 +1227,22 @@
 }
 
 
-.wms-file-picker:before {
+.wms-file-text:before {
 	content:"\f1f0";
 }
 
 
-.wms-file-text:before {
+.wms-file-upload:before {
 	content:"\f1f1";
 }
 
 
-.wms-file-upload:before {
+.wms-file:before {
 	content:"\f1f2";
 }
 
 
-.wms-file:before {
+.wms-filepicker:before {
 	content:"\f1f3";
 }
 
