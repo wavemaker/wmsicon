@@ -2517,6 +2517,11 @@
 }
 
 
+.wms-tab:before {
+	content: "\e900";
+}
+
+
 .wms-template-layout:before {
 	content:"\f2f2";
 }
