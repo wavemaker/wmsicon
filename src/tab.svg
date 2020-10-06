@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tab</title>
+    <defs>
+        <polygon id="path-1" points="0 18.0002 24 18.0002 24 0.0002 0 0.0002"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tab">
+            <path d="M21.4996,0.5002 C22.6036,0.5002 23.4996,1.3952 23.4996,2.5002 L23.4996,15.5002 C23.4996,16.6042 22.6046,17.5002 21.4996,17.5002 L2.4996,17.5002 C1.3956,17.5002 0.4996,16.6042 0.4996,15.5002 L0.4996,2.5002 C0.4996,1.3952 1.3956,0.5002 2.4996,0.5002 L21.4996,0.5002 Z" id="Stroke-1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-4"></g>
+            <polygon id="Stroke-3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="3.5 15.5002 19.5 15.5002 19.5 2.5002 3.5 2.5002"></polygon>
+            <path d="M2.0001,8.5002 C1.7241,8.5002 1.5001,8.7242 1.5001,9.0002 C1.5001,9.2762 1.7241,9.5002 2.0001,9.5002 C2.2761,9.5002 2.5001,9.2762 2.5001,9.0002 C2.5001,8.7242 2.2761,8.5002 2.0001,8.5002" id="Fill-5" fill="#000000" mask="url(#mask-2)"></path>
+            <path d="M21.5001,8.5002 C21.7761,8.5002 22.0001,8.7242 22.0001,9.0002 C22.0001,9.2762 21.7761,9.5002 21.5001,9.5002 C21.2241,9.5002 21.0001,9.2762 21.0001,9.0002 C21.0001,8.7242 21.2241,8.5002 21.5001,8.5002 Z" id="Stroke-6" stroke="#000000" stroke-linejoin="round" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
