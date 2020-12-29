@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="13px" viewBox="0 0 24 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-hover</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="13"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-156.000000, -179.000000)">
+            <g id="icon-hover" transform="translate(156.000000, 179.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <path d="M24,4 L24,13 L0,13 L0,4 L24,4 Z M22.5,5.5 L1.5,5.5 L1.5,11.5 L22.5,11.5 L22.5,5.5 Z M14.0706225,7.63731554 L14.0706225,9.13731554 L4.07871348,9.13731554 L4.07871348,7.63731554 L14.0706225,7.63731554 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
