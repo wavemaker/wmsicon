@@ -5,3 +5,4 @@ Changelog.md
 *.iml
 wmsicon.iml
 .idea
+.DS_Store
