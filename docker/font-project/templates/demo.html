@@ -2,14 +2,14 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title><%= fontFamilyName %></title>
+		<title><%= fontBaseName %></title>
 		<style>
 		body {
 			margin:0;
-			padding:10px 20px;
+			padding:0;
 			background:#fff;
 			color:#222;
-			}
+		}
 		h1, div, footer {
 			font-family:"Helvetica Neue", Arial, sans-serif;
 			}
@@ -17,66 +17,74 @@
 			margin:0 0 20px;
 			font-size:32px;
 			font-weight:normal;
-			}
-		h1 small {
-			font-size: 0.8em;
-			padding-left: 2em;
+			padding: 12px 48px;
+			background-color: #dddddd;
+			text-align: center;
+			border-bottom: 1px solid #bbb;
+			position: fixed;
+			width: 100%;
 		}
 		.icons {
+			padding-top: 100px;
+			display: flex;
+			justify-content: center;
+			flex-direction: row;
+			flex-wrap: wrap;
+			margin: 0 auto;
 			margin-bottom:40px;
-			-webkit-column-count:5;
-			   -moz-column-count:5;
-			        column-count:5;
-			-webkit-column-gap:20px;
-			   -moz-column-gap:20px;
-			        column-gap:20px;
-			}
+		}
+		.dark {
+			background-color: #000;
+			color: #fff;
+		}
+		.icons__item{
+			width: 240px;
+			padding: 0;
+			font-size: 12px;
+			border: 1px solid #CCC;
+			border-radius: 8px;
+			margin: 4px;
+			background-color: #f4f4f4;
+		}
 		.icons__item,
 		.icons__item i {
-			line-height:2em;
+			text-align:center;
 			cursor:pointer;
 			overflow:hidden;
-			}
+		}
 		.icons__item:hover {
-			color:#3c90be;
-			}
+			background-color:#3c90be;
+		}
 		.icons__item i {
-			display:inline-block;
-			width:32px;
+			display: inline-block;
+			width:50%;
+			font-size: 48px;
+			padding: 8px;
 			text-align:center;
-			}
-        .dark {
-          color: #fff;
-          background-color: #000;
-        }
-		.icons__item:hover i {
-			-webkit-transform:scale(1.5);
-			        transform:scale(1.5);
-			}
+		}
+		.icons__item:hover i.dark {
+			color:#3c90be;
+		}
 		footer {
 			margin-top:40px;
 			font-size:14px;
 			color:#999;
-			}
-        .icon-block {
-          display: inline-block;
-          width: 200px;
-          border: 1px #ccc solid;
-          margin-bottom: 10px;
-        }
-
+		}
 		<%= styles %>
 		</style>
 	</head>
 	<body>
-		<h1><%= fontFamilyName %><% if (version) { %><small>version <%= version %></small><% } %></h1>
+		<h1><%= fontBaseName %></h1>
 
 		<div class="icons" id="icons">
 			<% for (var glyphIdx = 0; glyphIdx < glyphs.length; glyphIdx++) { var glyph = glyphs[glyphIdx] %>
-		  <div class="icon-block">
-          <div class="icons__item" data-name="<%= glyph %>"><i class="<%= baseClass %> <%= classPrefix %><%= glyph %>"></i> <%= classPrefix %><%= glyph %></div>
-          <div class="icons__item dark" data-name="<%= glyph %>"><i class="<%= baseClass %> <%= classPrefix %><%= glyph %>"></i> <%= classPrefix %><%= glyph %></div>
-          </div>
+				<div class="icons__item" data-name="<%= glyph %>">
+					<div style="width: 100%;display: flex; flex-direction: row;border-bottom: 1px solid #ccc;">
+						<i class="<%= baseClass %> <%= classPrefix %><%= glyph %>"></i>
+						<i class="dark <%= baseClass %> <%= classPrefix %><%= glyph %>"></i>
+					</div>
+					<div style="padding: 4px 0"><%= classPrefix %><%= glyph %></div>
+				</div>
 			<% } %>
 		</div>
 
@@ -102,7 +110,7 @@
 				e = e || window.event;
 				var name = e.target.getAttribute('data-name') || e.target.parentNode.getAttribute('data-name');
 				document.getElementById('name').innerHTML = name;
-				<% if (addLigatures) { %>document.getElementById('name2').innerHTML = name;<% } %>
+				document.getElementById('name2').innerHTML = name;
 			}
 		})();
 		</script>

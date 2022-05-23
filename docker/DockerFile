@@ -1,0 +1,10 @@
+FROM node:12.18.1
+RUN apt-get upgrade
+RUN apt-get update
+RUN yes | apt-get install fontforge
+RUN npm install -g grunt
+COPY docker/font-project /font-project
+COPY Gruntfile.js /font-project
+WORKDIR /font-project
+ENV FONTFORGE_VERBOSE=
+ENTRYPOINT [ "/bin/bash", "build.sh" ]

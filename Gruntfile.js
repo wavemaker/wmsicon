@@ -4,6 +4,7 @@ module.exports = function (grunt) {
 	'use strict';
 
 	grunt.loadNpmTasks('grunt-webfont');
+	grunt.loadNpmTasks('grunt-contrib-clean');
 
 	grunt.initConfig({
 		webfont: {
@@ -24,11 +25,11 @@ module.exports = function (grunt) {
 				}
 			}
 		},
-		clean: ['test/tmp']
+		clean: ['dist/wms']
 	});
 
 	grunt.loadTasks('tasks');
 
-	grunt.registerTask('default', ['webfont'/*, 'clean'*/]);
+	grunt.registerTask('default', ['clean', 'webfont'/*, 'clean'*/]);
 
 };

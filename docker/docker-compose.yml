@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  svg-to-font:
+    image: svg_to_font
+    build:
+      context: ../
+      dockerfile: docker/DockerFile
+    volumes:
+      - "../src:/font-project/src"
+      - "../dist:/font-project/dist"
+

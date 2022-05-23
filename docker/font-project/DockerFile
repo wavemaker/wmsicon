@@ -1,0 +1,7 @@
+FROM node:12.18.1
+VOLUME [ "/data" ]
+RUN apt-get upgrade
+RUN apt-get update
+RUN yes | apt-get install fontforge
+RUN npm install -g grunt
+#RUN cd /font-project
