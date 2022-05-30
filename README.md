@@ -5,5 +5,5 @@ Icon library for wavemaker studio
 
 In a linux system,
 
-> Install docker
-> Execute **sh build.sh**
+1. Install docker
+2. Execute **sh build.sh**
