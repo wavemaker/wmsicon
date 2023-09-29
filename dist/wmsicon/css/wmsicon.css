@@ -768,7 +768,7 @@
 .wms-eye:before {
   content: "\e9f4";
 }
-.wms-favourite:before {
+.wms-favorite:before {
   content: "\e9f5";
 }
 .wms-fields:before {
@@ -1020,7 +1020,7 @@
 .wms-format-strikethrough:before {
   content: "\ea48";
 }
-.wms-format-textdirection-l-to-R:before {
+.wms-format-textdirection-l-to-r:before {
   content: "\ea49";
 }
 .wms-format-textdirection-r-to-l:before {
@@ -1143,7 +1143,7 @@
 .wms-line-style:before {
   content: "\ea71";
 }
-.wms-link-ol:before {
+.wms-list-ol:before {
   content: "\ea72";
 }
 .wms-link:before {
@@ -1365,7 +1365,7 @@
 .wms-play-arrow:before {
   content: "\eabb";
 }
-.wms-play-circle-field:before {
+.wms-play-circle-filled:before {
   content: "\eabc";
 }
 .wms-play-circle-outline:before {
@@ -1683,7 +1683,7 @@
 .wms-v-timer-service:before {
   content: "\eb25";
 }
-.wms-v-web-sevice:before {
+.wms-v-web-service:before {
   content: "\eb26";
 }
 .wms-variable:before {
@@ -1791,7 +1791,7 @@
 .wms-widget-button:before {
   content: "\eb49";
 }
-.wms-widget-calender:before {
+.wms-widget-calendar:before {
   content: "\eb4a";
 }
 .wms-widget-camera:before {
@@ -1884,7 +1884,7 @@
 .wms-widget-linear-layout:before {
   content: "\eb68";
 }
-.wms-widget-linearchart:before {
+.wms-widget-linechart:before {
   content: "\eb69";
 }
 .wms-widget-list:before {
@@ -1983,13 +1983,13 @@
 .wms-widget-search:before {
   content: "\eb89";
 }
-.wms-widget-segementedcontrol:before {
+.wms-widget-segmentedcontrol:before {
   content: "\eb8a";
 }
 .wms-widget-select:before {
   content: "\eb8b";
 }
-.wms-widget-selectlocate:before {
+.wms-widget-selectlocale:before {
   content: "\eb8c";
 }
 .wms-widget-slider:before {
