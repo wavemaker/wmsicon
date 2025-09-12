@@ -2090,146 +2090,138 @@
   .wms-widget-bottomsheet:before {
   content: "\ebad";
   }
-  .wms-column-bottom-center:before {
+  .wms-autolayout-direction-column:before {
   content: "\ebae";
   }
-  
-  .wms-column-bottom-left:before {
+  .wms-autolayout-direction-row:before {
   content: "\ebaf";
   }
-  
-  .wms-column-bottom-right:before {
+  .wms-column-bottom-center:before {
   content: "\ebb0";
   }
-  
-  .wms-column-center:before {
+  .wms-column-bottom-left:before {
   content: "\ebb1";
   }
-  
-  .wms-column-end:before {
+  .wms-column-bottom-right:before {
   content: "\ebb2";
   }
-  
-  .wms-column-middle-center:before {
+  .wms-column-center:before {
   content: "\ebb3";
   }
-  
-  .wms-column-middle-left:before {
+  .wms-column-end:before {
   content: "\ebb4";
   }
-  
-  .wms-column-middle-right:before {
+  .wms-column-middle-center:before {
   content: "\ebb5";
   }
-  
-  .wms-column-start:before {
+  .wms-column-middle-left:before {
   content: "\ebb6";
   }
-  
-  .wms-column-top-center:before {
+  .wms-column-middle-right:before {
   content: "\ebb7";
   }
-  
-  .wms-column-top-left:before {
+  .wms-column-start:before {
   content: "\ebb8";
   }
-  
-  .wms-column-top-right:before {
+  .wms-column-top-center:before {
   content: "\ebb9";
   }
-  
-  .wms-autolayout-direction-column:before {
+  .wms-column-top-left:before {
   content: "\ebba";
   }
-  
-  .wms-autolayout-direction-row:before {
+  .wms-column-top-right:before {
   content: "\ebbb";
   }
-  
   .wms-row-bottom-center:before {
   content: "\ebbc";
   }
-  
   .wms-row-bottom-left:before {
   content: "\ebbd";
   }
-  
   .wms-row-bottom-right:before {
   content: "\ebbe";
   }
-  
   .wms-row-center:before {
   content: "\ebbf";
   }
-  
   .wms-row-end:before {
   content: "\ebc0";
   }
-  
   .wms-row-middle-center:before {
   content: "\ebc1";
   }
-  
   .wms-row-middle-left:before {
   content: "\ebc2";
   }
-  
   .wms-row-middle-right:before {
   content: "\ebc3";
   }
-  
   .wms-row-start:before {
   content: "\ebc4";
   }
-  
   .wms-row-top-center:before {
   content: "\ebc5";
   }
-  
   .wms-row-top-left:before {
   content: "\ebc6";
   }
-  
   .wms-row-top-right:before {
   content: "\ebc7";
   }
-  
   .wms-row-wrap:before {
   content: "\ebc8";
   }
-  
   .wms-wrap-bottom-center:before {
   content: "\ebc9";
   }
-  
   .wms-wrap-bottom-left:before {
   content: "\ebca";
   }
-  
   .wms-wrap-bottom-right:before {
   content: "\ebcb";
   }
-  
   .wms-wrap-middle-center:before {
   content: "\ebcc";
   }
-  
   .wms-wrap-middle-left:before {
   content: "\ebcd";
   }
-  
   .wms-wrap-middle-right:before {
   content: "\ebce";
   }
-  
   .wms-wrap-top-center:before {
   content: "\ebcf";
   }
-  
   .wms-wrap-top-left:before {
   content: "\ebd0";
   }
-  
   .wms-wrap-top-right:before {
   content: "\ebd1";
+  }
+  .wms-bottom-spacing:before {
+  content: "\ebd2";
+  }
+  .wms-horizontal-gap:before {
+    content: "\ebd3";
+  }
+  .wms-horizontal-spacing:before {
+    content: "\ebd4";
+  }
+  .wms-individual-spacing:before {
+    content: "\ebd5";
+  }
+  .wms-left-spacing:before {
+    content: "\ebd6";
+  }
+  .wms-right-spacing:before {
+    content: "\ebd7";
+  }
+  .wms-top-spacing:before {
+    content: "\ebd8";
+  }
+  .wms-vertical-gap:before {
+    content: "\ebd9";
+  }
+  .wms-vertical-spacing:before {
+    content: "\ebda";
   }
