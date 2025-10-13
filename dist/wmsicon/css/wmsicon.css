@@ -2099,4 +2099,13 @@
   .wms-reimport-api:before {
     content: "\ebb0";
   }
+  .wms-branch:before {
+  content: "\ebb1";
+  }
+  .wms-main:before {
+    content: "\ebb2";
+  }
+  .wms-theme-setting:before {
+    content: "\ebb3";
+  }
     
